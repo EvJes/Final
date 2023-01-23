@@ -28,3 +28,10 @@ void Diffarray(string[] arr)
 
     }
 }
+FillArray(array);
+
+Diffarray(array);
+
+Console.Write("-> ");
+
+FillArray(array);
